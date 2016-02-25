@@ -1,2 +1,3 @@
 # hello-world
-The Hello World project is a time-honered tradition in computer programming,
+Hi,humans!
+I am studying C++,HTML and Js.
